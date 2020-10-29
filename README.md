@@ -2,7 +2,7 @@
 
 ### Click the link to view the website
 
-[Netflix Front-end UI Webstite](hnetflix-clone-cc6e2.firebaseapp.com)
+[Netflix Front-end UI Webstite](https://netflix-clone-cc6e2.firebaseapp.com/)
 
 ### About Us
 
