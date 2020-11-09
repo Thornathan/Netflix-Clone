@@ -1,4 +1,4 @@
-# **Fakeflix Netflix Front-End UI**
+# **Netflix Clone Front-End UI**
 
 ### Click the link to view the website
 
@@ -20,7 +20,7 @@
 
 ![Home Page Sceenshot](screenshots/netflixCloneScreenshot.png)
 
-[Home Page Sceenshot](https://imgur.com/yZBV8Cm)
+[Home Page Sceenshot](https://i.imgur.com/6IisWNa.png)
 
 ## Technologies Used:
 
