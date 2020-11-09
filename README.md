@@ -18,9 +18,8 @@
 
 ## Screenshot:
 
-![Home Page Sceenshot](screenshots/netflixCloneScreenshot.png)
+![Home Page](https://i.imgur.com/6IisWNa.png)
 
-[Home Page Sceenshot](https://i.imgur.com/6IisWNa.png)
 
 ## Technologies Used:
 
